@@ -1,2 +1,5 @@
 # InfoPlugin
-plugin de info
+
+## description:
+
+Plugin qui rajoute la commande /discord ou /site
