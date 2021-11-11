@@ -1,0 +1,12 @@
+name: InfoPlugin
+version: 1.0.0
+api: 3.0.0
+main: HarixTeam\Info
+author: HacheBg
+Discord: https://discord.gg/scwqt6Qr9a
+
+commands:
+  discord:
+    description: "permet de avoir un lien de discord"
+  site:
+    description: "permet de avoir un lien du site internet"
