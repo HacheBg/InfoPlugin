@@ -1,0 +1,2 @@
+# InfoPlugin
+plugin de info
